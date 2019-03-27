@@ -2,4 +2,4 @@
 ##  Tehtävät #"
 ### Viikko1 ###
 
-[ddddd]
+[ddddd]( laskarit/viikko1/komentorivi.txt)
